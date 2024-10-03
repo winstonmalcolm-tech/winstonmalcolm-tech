@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate software developer who enjoys learning and creating innovative software. <br>I build mobile apps using flutter and I am currently exploring Reactjs for web frontend.<br>
+Passionate software developer who enjoys learning and creating innovative software. <br>I build mobile apps using flutter and Web apps using Reactjs and nodejs.<br>
 
 
 ## 🌐 Socials:
